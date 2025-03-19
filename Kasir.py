@@ -39,3 +39,4 @@ class kasir:
                         print("uang tidak cukup, harap coba lagi...")
                 except ValueError:
                     print("harap masukkan value yang valid")
+kasir = kasir()
